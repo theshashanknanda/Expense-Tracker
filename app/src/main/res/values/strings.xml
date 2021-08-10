@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Expense Tracker</string>
+    <string-array name="spinner_array">
+        <item>Home</item>
+        <item>Work</item>
+        <item>Personal</item>
+    </string-array>
+</resources>
